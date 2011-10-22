@@ -1,0 +1,8 @@
+MIDlet-1: IceApp, ,imaxeApp
+MIDlet-Jar-Size: 125311
+MIDlet-Jar-URL: IceApp.jar
+MIDlet-Name: IceApp
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
